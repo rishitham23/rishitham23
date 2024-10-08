@@ -1,7 +1,7 @@
 ## Hello, World! I am Rishitha 👋
 
 - 🔭 I’m a Software Engineering graduate from Arizona State University
-- 🌱 I’m actively seeking full-time opportunities in Data Analytics/ Data Engineering
+- 🌱 I’m actively seeking software engineer full-time opportunities 
 - 📫 How to reach me: rishithamalempati@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love watching/reading crime thrillers & RomComs, gardening and above everything, coffee!!!!
