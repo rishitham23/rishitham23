@@ -4,7 +4,7 @@
 - 🌱 I’m actively seeking software engineer full-time opportunities 
 - 📫 How to reach me: rishithamalempati@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love watching/reading crime thrillers & RomComs, gardening and above everything, coffee!!!!
+- ⚡ Fun fact: I love watching/reading crime thrillers & RomComs, gardening, and above everything, coffee!!!!
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
